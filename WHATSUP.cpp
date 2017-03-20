@@ -4,6 +4,6 @@ using std::endl;
 
 int main(){
   int agh =1;
-  cout<<agh<<endl;
+  cout<<agh<<" seriously?"<<endl;
   return 0;
 }
